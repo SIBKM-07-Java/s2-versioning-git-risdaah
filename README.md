@@ -12,7 +12,7 @@ Di dalam branch ParentRisda terdapat file "HelloWorld.txt"
 ![Screenshot (3327)](https://github.com/user-attachments/assets/aacc0308-6240-4f13-9821-fec2e3872fcd)
 
 #### Membuat Branch "ChildRisda"
-Di dalam branch ChildRisda terdaoat file "Halo_Child.txt"
+Di dalam branch ChildRisda terdapat file "Halo_Child.txt"
 ![Screenshot (3324)](https://github.com/user-attachments/assets/6dddcd63-91a6-403f-9aed-9ce10ebe72da)
 
 #### Merge - Fast Forward antara ParentRisda & ChildRisda
