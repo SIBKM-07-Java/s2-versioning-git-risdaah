@@ -1,6 +1,5 @@
-Laporan Tugas 1: Versioning
+# Laporan Tugas 1: Versioning
 
-Oleh:
-Risda Rahmawati Harsono
+## Oleh: Risda Rahmawati Harsono
 
-Skenario Fast-Forward
+### Skenario Fast-Forward
