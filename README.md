@@ -86,3 +86,5 @@
 #### 13. Melakukan Pull Request di Github Repositori.
 ![image](https://github.com/user-attachments/assets/ad2dcb3b-04a2-4ffd-a8a6-71c3a74b3cbf)
 
+#### 14. Graph
+![image](https://github.com/user-attachments/assets/8e0345c7-adf2-4ea7-bdd3-1ad8553f2b3f)
