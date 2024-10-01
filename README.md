@@ -1,3 +1,3 @@
 # TUGAS VERSIONING
 
-## Ini Punya ParentRisda2
+## Ini Punya ChildRisda2
